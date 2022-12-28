@@ -1,0 +1,5 @@
+To get the teams user from AD, check the following links
+
+https://learn.microsoft.com/en-us/javascript/api/overview/azure/communication-identity-readme?view=azure-node-latest
+https://github.com/Azure/azure-sdk-for-js/blob/%40azure/communication-identity_1.2.0/sdk/communication/communication-identity/samples/v1/javascript/getTokenForTeamsUser.js
+
